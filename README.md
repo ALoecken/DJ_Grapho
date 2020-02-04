@@ -27,8 +27,8 @@ You need to set up your own developer projects for the different APIs.
 
 
 ## Experimental
-- If you have a folder full of mp3s in the name format Artist-Title.mp3, you may use 'create_m3u.py' to creatae a playlist for files on your pc
-- 'youtube_downloader_noAPI.py' can be used to download mp3s from Youtube. However, I played around with it a bit but stopped working on it as I and am rather sure that using it is a violation of Youtube's terms of service and maybe copyright laws. 
+- If you have a folder full of mp3s in the name format Artist-Title.mp3, you may use 'create_m3u.py' to create a playlist for files on your pc
+- create_youtubelist.py creates a youtubelist ;) but needs you to set up a youtube-project first (to get the API credentials)
 
 ## Requirements
 TBD
