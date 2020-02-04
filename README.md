@@ -1,4 +1,4 @@
-# DJ_Grapho
+# DJ Grapho
 This set of files creates a playlist that transits nicely over similar tracks. The goal is to gather music from different genres and let them play on a party without the "DJ Shuffle" effect. 
 It uses the Last.FM database to receive metadata, the Spotify API to get a playlist as input, and the Youtube API to upload the playlist to an account. 
 
