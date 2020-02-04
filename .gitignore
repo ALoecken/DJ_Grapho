@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/data/my_secrets.json
+/data/client_secret.json
+/data/cred.pickle
