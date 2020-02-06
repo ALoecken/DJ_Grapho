@@ -269,6 +269,7 @@ def getYoutubeLink(trackinfo, round=0):
                 or 'karaoke' in title  \
                 or 'karaoke' in channel \
                 or 'zuruixk' in channel \
+                or '8 bit' in title \
                 or fuzz.partial_ratio(t.lower(), title) < 80:
             # not trackinfo['Title'].lower() in title:
             continue
